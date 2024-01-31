@@ -1,0 +1,35 @@
+{
+    "usuarios": [
+      {
+        "id": 1,
+        "nombre": "Pepe Parrales",
+        "contraseña": "pass123",
+        "perfil": "admin"
+      },
+      {
+        "id": 2,
+        "nombre": "Snyder Cut",
+        "contraseña": "password456",
+        "perfil": "user"
+      },
+      {
+        "id": 3,
+        "nombre": "Loco Martin",
+        "contraseña": "securepass",
+        "perfil": "guest"
+      },
+      {
+        "id": 4,
+        "nombre": "Jaime Lannister",
+        "contraseña": "strongpassword",
+        "perfil": "admin"
+      },
+      {
+        "id": 5,
+        "nombre": "Juan Aviles",
+        "contraseña": "testpass",
+        "perfil": "user"
+      }
+    ]
+  }
+  
